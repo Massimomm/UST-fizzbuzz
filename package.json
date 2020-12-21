@@ -1,7 +1,7 @@
 {
   "name": "fizz-buzz-v1",
   "version": "1.0.0",
-  "description": "FizzBuzz Test",
+  "description": "FizzBuzz V. Beta",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
