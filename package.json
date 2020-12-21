@@ -1,7 +1,7 @@
 {
-  "name": "fizz-buzz-2077",
+  "name": "fizz-buzz-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "FizzBuzz Test",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raphaklaus/fizz-buzz-2077.git"
+    "url": "git+https://github.com/Massimomm/UST-fizzbuzz.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raphaklaus/fizz-buzz-2077/issues"
+    "url": "https://github.com/Massimomm/UST-fizzbuzz.git"
   },
-  "homepage": "https://github.com/raphaklaus/fizz-buzz-2077#readme",
+  "homepage": "https://github.com/Massimomm/UST-fizzbuzz#readme",
   "devDependencies": {
     "@types/mocha": "^8.0.0",
     "@types/node": "^14.0.23",

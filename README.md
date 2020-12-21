@@ -1,4 +1,4 @@
-## Instructions
+# UST-fizzbuzz
 
 - run & Test: |  
    npm test
