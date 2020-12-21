@@ -18,7 +18,7 @@ describe("Fizz Buzz", () => {
     assert.equal(execute(11), 11);
   });
 
-  it("should refute one of the assertions", () => {
+  it("5 - should reject one of the assertions", () => {
     assert.notEqual(execute(3), type.FizzBuzz.toString());
   });
 
